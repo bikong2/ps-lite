@@ -1,3 +1,7 @@
+# @author: modified by lixihua9@126.com
+# @date:   2016/03/27
+# @brief:  parameter server
+
 <img src="http://parameterserver.org/images/parameterserver.png"  width=400 />
 
 [![Build Status](https://travis-ci.org/dmlc/ps-lite.svg?branch=master)](https://travis-ci.org/dmlc/ps-lite)
